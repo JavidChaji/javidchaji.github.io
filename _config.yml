@@ -58,16 +58,16 @@ author:
   lastfm           : # Username
   linkedin         : "JavidChaji" # Username
   mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
+  medium           : "https://medium.com/@JavidChaji" # URL
+  pinterest        : "JavidChaji" # Username
   soundcloud       : "JavidChaji" # Username
   steam            : "JavidChaji" # Username
   telegram         : # URL
-  tumblr           : # Username
+  tumblr           : "JavidChaji" # Username
   twitter          : "JavidChaji"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "JavidChaji" # Username
   xing             : # Username
   youtube          : "JavidChaji" # Username
   zhihu            : # URL
