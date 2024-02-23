@@ -48,15 +48,15 @@ author:
 
   # Social media
   bluesky          : "javidchaji.bsky.social" # Replace this with you Bluesky username
-  facebook         : "JavidChaji"# Username
+  facebook         : "JavidChaji" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "JavidChaji"# Username
+  instagram        : "JavidChaji" # Username
   lastfm           : # Username
-  linkedin         : "JavidChaji"# Username
+  linkedin         : "JavidChaji" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -69,7 +69,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "JavidChaji"# Username
+  youtube          : "JavidChaji" # Username
   zhihu            : # URL
 
 
