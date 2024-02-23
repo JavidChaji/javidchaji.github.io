@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Iran"
   employer         : "Ferdowsi University of Mashhad"
-  uri              : # URL
+  uri              : "https://en.um.ac.ir" # URL
   email            : "javid.chaji@gmail.com" 
 
   # Academic websites
@@ -39,21 +39,21 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Javid-Chaji" # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        : "JavidChaji" # Username - Update with your username on the site
+  codepen          : "JavidChaji" # Username
+  dribbble         : "JavidChaji" # Username
   github           : "JavidChaji"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : "JavidChaji" # Username  
+  stackoverflow    : "14291660/javid-chaji" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "javidchaji.bsky.social" # Replace this with you Bluesky username
   facebook         : "JavidChaji" # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
+  flickr           : "JavidChaji" # Username
+  foursquare       : "javidc6382145" # Username
+  goodreads        : "JavidChaji" # Username
   google_plus      : # Username
-  keybase          : # Username
+  keybase          : "JavidChaji" # Username
   instagram        : "JavidChaji" # Username
   lastfm           : # Username
   linkedin         : "JavidChaji" # Username
