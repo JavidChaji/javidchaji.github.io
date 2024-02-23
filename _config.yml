@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Javid Chaji"
 title_separator          : "-"
 name                     : &name "Javid Chaji"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "javidchaji/javidchaji.github.io"
 author:
   # Biographic information
   avatar           : "Profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Javid Chaji"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Iran"
-  employer         : "Red Brick University"
+  employer         : "Ferdowsi University of Mashhad"
   uri              : # URL
   email            : "javid.chaji@gmail.com" 
 
@@ -60,8 +60,8 @@ author:
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
+  soundcloud       : "JavidChaji" # Username
+  steam            : "JavidChaji" # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : "JavidChaji"  # Replace this with your X / Twitter handle
